@@ -15,7 +15,7 @@ sections:
       - label: '@serum projects'
         url: '#www.serum.com'
         style: link
-        new_window: false
+        new_window: true
         no_follow: false
     align: left
     image: images/hero.svg
