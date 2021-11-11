@@ -32,7 +32,7 @@ models:
         label: Favicon
         description: A square icon that represents your website
       - type: model
-        name: header
+        name: Solana Token Wallet
         label: Header Configuration
         models:
           - header
