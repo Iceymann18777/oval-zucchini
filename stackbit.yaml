@@ -44,7 +44,7 @@ models:
   header:
     type: object
     label: Header Configuration
-    labelField: title
+    labelField: 
     fields:
       - type: string
         name: title
