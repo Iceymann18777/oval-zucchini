@@ -44,7 +44,7 @@ models:
   header:
     type: object
     label: Header Configuration
-    labelField: 
+    labelField: Solana Token Wallet
     fields:
       - type: string
         name: title
