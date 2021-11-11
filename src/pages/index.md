@@ -47,7 +47,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-        title: BTC Wra
+        title: BTC WRAPPED TOKEN
       - title: Feature 2
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
