@@ -74,7 +74,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-    title: 'options to '
+    title: options to stack tokens
   - type: blog_feed_section
     title: What's New
     show_recent: true
