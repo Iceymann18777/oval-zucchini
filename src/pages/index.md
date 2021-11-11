@@ -34,7 +34,6 @@ sections:
       gate away payment services.. 
     image_alt: popup window to create a new wallet
   - type: features_section
-    title: Features
     features:
       - title: Feature 1
         content: >-
