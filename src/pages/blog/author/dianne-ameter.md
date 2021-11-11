@@ -5,7 +5,7 @@ sections:
     title: All Posts By Dianne Ameter
     align: center
   - type: blog_feed_section
-    show_recent: false
+    show_recent: true
     author: src/data/team/dianne-ameter.yaml
 seo:
   title: Posts by Dianne Ameter
