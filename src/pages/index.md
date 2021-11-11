@@ -13,7 +13,7 @@ sections:
         new_window: true
         no_follow: true
       - label: '@serum projects'
-        url: '#'
+        url: '#www.serum'
         style: link
         new_window: false
         no_follow: false
