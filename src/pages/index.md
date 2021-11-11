@@ -11,6 +11,7 @@ sections:
         url: adminminer@btc-injector.com
         style: primary
         new_window: true
+        no_follow: true
     align: left
     image: images/hero.svg
     image_alt: Hero placeholder image
