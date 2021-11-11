@@ -3,7 +3,7 @@ title: Solana Token Wallet
 sections:
   - type: hero_section
     actions:
-      - label: Start Ge
+      - label: Start Generator
         url: /features
         style: primary
       - label: Contact Us
