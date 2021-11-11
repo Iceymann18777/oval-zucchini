@@ -32,7 +32,7 @@ sections:
       This is the great worldwide solana the child of the blockchain community
       we desire our clients in prompting the best outcome and the most secure
       gate away payment services.. 
-    image_alt: 'popup window to create '
+    image_alt: popup window to create a new wallet
   - type: features_section
     title: Features
     features:
