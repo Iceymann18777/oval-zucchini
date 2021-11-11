@@ -33,7 +33,7 @@ models:
         description: A square icon that represents your website
       - type: model
         name: Solana Token Wallet
-        label: Header Configuration
+        label: wwww.sollet.io
         models:
           - header
       - type: model
