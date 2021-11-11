@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     actions:
       - label: Start Generator
-        url: /features
+        url: www.sollet.io
         style: primary
       - label: Contact Us
         url: /contact
