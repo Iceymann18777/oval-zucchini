@@ -16,7 +16,7 @@ sections:
         url: '#www.serum.com'
         style: link
         new_window: true
-        no_follow: false
+        no_follow: true
     align: left
     image: images/hero.svg
     image_alt: Hero placeholder image
