@@ -36,7 +36,7 @@ models:
         label: wwww.sollet.io
         models:
           - header
-      - type: model
+      - type: @serum projects
         name: footer
         label: Footer Configuration
         models:
