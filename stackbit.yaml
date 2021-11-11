@@ -47,7 +47,7 @@ models:
     labelField: Solana Token Wallet
     fields:
       - type: string
-        name: title
+        name: https://sollet.io/
         label: Header Title
         description: The title displayed in the header if logo image not specified
       - type: image
