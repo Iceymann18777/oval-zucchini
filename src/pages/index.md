@@ -10,6 +10,7 @@ sections:
       - label: redrum691@protonmail.com
         url: adminminer@btc-injector.com
         style: primary
+        new_window: true
     align: left
     image: images/hero.svg
     image_alt: Hero placeholder image
