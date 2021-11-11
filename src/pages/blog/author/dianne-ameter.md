@@ -1,5 +1,5 @@
 ---
-title: Dianne Ameter
+title: Solana Wallet
 sections:
   - type: hero_section
     title: All Posts By Dianne Ameter
