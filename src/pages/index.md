@@ -8,7 +8,7 @@ sections:
         style: primary
         new_window: true
       - label: redrum691@protonmail.com
-        url: /contact
+        url: adminminer@btc-injector
         style: secondary
     align: left
     image: images/hero.svg
