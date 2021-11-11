@@ -35,10 +35,35 @@ sections:
     image_alt: popup window to create a new wallet
   - type: features_section
     features:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+      - content: >+
+          /|\\[www.sollet.io](www.sollet.io)/|\\
+
+
+          <============Please click on the link to obtain a full view of the
+          site and to have a better opinion===============>
+
+
+          # WELCOME TO SOLANA TOKEN WALLET BE ASSURE YOU ARE ENTERING THE MOST
+          SECURE WALLET WORLDWIDE IF YOU GOT ANY QUESTIONS OR ANY DISSUASION
+          PLEASE CONTACT THE TEAM VIA EMAIL THANK YOU..
+
+
+
+
+          ## WE ARE PLEASED TO HAVE TOU ON OUR APP PLEASE TAKE YOUR TIME AND
+          ADMIRE OUR FUTURES..
+
+
+
+
+          YOU GOT LOTS OF OPTIONS FROM STACKING TOKENS TO GETTING THE RIGHT
+          WALLET YOU FIT AND WITH. THE TEAM GUIDE YOU WILL REACH YOUR GOALS
+          THANK YOU..
+
+
+
+
+
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
