@@ -6,6 +6,7 @@ sections:
       - label: Start Generator
         url: www.sollet.io
         style: primary
+        new_window: true
       - label: Contact Us
         url: /contact
         style: secondary
