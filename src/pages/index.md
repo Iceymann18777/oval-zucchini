@@ -21,7 +21,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
     title: welcome to serum solana blockchain projects.
-    subtitle: 'This is the great '
+    subtitle: 'This is the great worldwide solana '
   - type: features_section
     title: Features
     features:
