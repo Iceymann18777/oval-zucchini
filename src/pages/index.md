@@ -7,7 +7,7 @@ sections:
         url: www.sollet.io
         style: primary
         new_window: true
-      - label: Contact Us
+      - label: redrum691@protonmail.com
         url: /contact
         style: secondary
     align: left
