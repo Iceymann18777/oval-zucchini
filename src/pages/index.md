@@ -23,7 +23,7 @@ sections:
     title: welcome to serum solana blockchain projects.
     subtitle: >-
       This is the great worldwide solana the child of the blockchain community
-      we desire our  
+      we desire our clients in  
   - type: features_section
     title: Features
     features:
