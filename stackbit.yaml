@@ -26,17 +26,17 @@ models:
         label: Domain
         description: >-
           The domain of your site, including the protocol, e.g.
-          https://mysite.com/
+          https://sollet.io/
       - type: image
         name: favicon
         label: Favicon
         description: A square icon that represents your website
       - type: model
-        name: header
-        label: Header Configuration
+        name: Solana Token Wallet
+        label: wwww.sollet.io
         models:
           - header
-      - type: model
+      - type: @serum projects
         name: footer
         label: Footer Configuration
         models:
@@ -44,12 +44,12 @@ models:
   header:
     type: object
     label: Header Configuration
-    labelField: title
+    labelField: Solana Token Wallet
     fields:
       - type: string
-        name: title
+        name: https://sollet.io/
         label: Header Title
-        description: The title displayed in the header if logo image not specified
+        description: Solana SPL Token Wallet
       - type: image
         name: logo
         label: Logo

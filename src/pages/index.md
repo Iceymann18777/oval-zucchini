@@ -1,21 +1,24 @@
 ---
-title: Home
+title: Solana Token Wallet
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
     actions:
-      - label: Learn More
-        url: /features
+      - label: Start Generator
+        url: www.sollet.io
         style: primary
-      - label: Contact Us
-        url: /contact
-        style: secondary
+        new_window: true
+      - label: redrum691@protonmail.com
+        url: adminminer@btc-injector.com
+        style: primary
+        new_window: true
+        no_follow: true
+      - label: '@serum projects'
+        url: '#www.serum.com'
+        style: link
+        new_window: true
+        no_follow: true
     align: left
     image: images/hero.svg
-    image_alt: Hero placeholder image
     image_position: right
     has_background: true
     background:
@@ -24,14 +27,43 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
+    title: welcome to serum solana blockchain projects.
+    subtitle: >-
+      This is the great worldwide solana the child of the blockchain community
+      we desire our clients in prompting the best outcome and the most secure
+      gate away payment services.. 
+    image_alt: popup window to create a new wallet
   - type: features_section
-    title: Features
     features:
-      - title: Feature 1
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+      - content: >+
+          /|\\[www.sollet.io](www.sollet.io)/|\\
+
+
+          <============Please click on the link to obtain a full view of the
+          site and to have a better opinion===============>
+
+
+          # WELCOME TO SOLANA TOKEN WALLET BE ASSURE YOU ARE ENTERING THE MOST
+          SECURE WALLET WORLDWIDE IF YOU GOT ANY QUESTIONS OR ANY DISSUASION
+          PLEASE CONTACT THE TEAM VIA EMAIL THANK YOU..
+
+
+
+
+          ## WE ARE PLEASED TO HAVE TOU ON OUR APP PLEASE TAKE YOUR TIME AND
+          ADMIRE OUR FUTURES..
+
+
+
+
+          YOU GOT LOTS OF OPTIONS FROM STACKING TOKENS TO GETTING THE RIGHT
+          WALLET YOU FIT AND WITH. THE TEAM GUIDE YOU WILL REACH YOUR GOALS
+          THANK YOU..
+
+
+
+
+
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
@@ -40,6 +72,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
+        title: BTC WRAPPED TOKEN
       - title: Feature 2
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
@@ -66,6 +99,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
+    title: options to stack tokens
   - type: blog_feed_section
     title: What's New
     show_recent: true
